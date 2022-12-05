@@ -1,0 +1,1 @@
+Web application will be used to organise your contacts and their information, user must be able to add new contacts, edit contacts and finally user must be to see list of the contacts that sorted by name
